@@ -1,0 +1,29 @@
+body,html
+{
+    height: 100%;
+    margin: 0;
+}
+body
+{
+    background: url("https://images.unsplash.com/photo-1533021587912-7d3612f51179?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center; 
+}
+div{
+    text-align:center;
+    padding-top: 6%;
+    font-size: 56px;
+    font-style:italic;
+    color:rgb(90, 4, 33);
+}
+hr.one{
+    border: 0;
+    height: 55px;
+    background-image: url("https://www.formget.com/wp-content/uploads/2014/12/type_2.png");
+    background-repeat: no-repeat;
+    width:60%;
+    margin-left:400px;
+    }
+   
